@@ -1,4 +1,4 @@
-TWO SUM PROBLEM:
+1)TWO SUM PROBLEM:
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         
@@ -16,7 +16,8 @@ class Solution {
         return new int[]{};
     }
 }
-BEST TIME TO BUY AND SELL STOCK:
+
+2)BEST TIME TO BUY AND SELL STOCK:
 class Solution {
     public int maxProfit(int[] prices) {
         int minPrice = Integer.MAX_VALUE;
